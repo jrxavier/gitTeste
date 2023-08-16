@@ -2,3 +2,4 @@ teste de versionamento.
 Versao 01
 
 
+Novo texto inserido.
